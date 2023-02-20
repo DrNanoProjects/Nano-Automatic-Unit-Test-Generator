@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo06,KrediHesaplama3,0,11,0,0,0,2,0,2,0,2
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo06,FaizOran,5,0,0,0,2,0,2,0,2,0
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo03,HesaplamaKayit,0,7,0,0,0,3,0,2,0,2
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo03,KrediHesaplama2,0,20,1,1,0,5,1,2,0,2
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo02,KrediHesaplama,0,15,1,1,0,4,1,2,0,2
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo05,HesaplamaKayit,3,4,0,0,1,2,1,1,1,1
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo05,KrediHesaplama2,0,20,1,1,0,5,1,2,0,2
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo04,KrediHesaplama2,0,20,1,1,0,5,1,2,0,2
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo04,HesaplamaKayit,3,4,0,0,1,2,1,1,1,1
+CodeCoverageTezing,com.mycompany.codecoveragetezing.Senaryo01,KrediHesaplama,0,9,0,0,0,2,0,2,0,2
